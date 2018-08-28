@@ -1,0 +1,6 @@
+[12-Apr-2016 04:55:05 CST6CDT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/krowner5/public_html/www.krowner.ca/db_connect.php on line 21
+[12-Apr-2016 05:46:09 CST6CDT] PHP Fatal error:  Call to a member function exec() on null in /home/krowner5/public_html/www.krowner.ca/subscribe.php on line 22
+[12-Apr-2016 06:05:02 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/krowner5/public_html/www.krowner.ca/subscribe.php on line 43
+[12-Apr-2016 06:05:41 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/krowner5/public_html/www.krowner.ca/subscribe.php on line 43
+[15-Apr-2018 09:18:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/krowner5/public_html/www.krowner.pk/subscribe.php on line 23
+[15-Apr-2018 09:19:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/krowner5/public_html/www.krowner.pk/subscribe.php on line 23
